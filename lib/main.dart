@@ -12,7 +12,7 @@ void main() {
         ),
         body: const Center(
           child: Image(
-            image: AssetImage('images/cs50.JPG'),
+            image: AssetImage('images/goo.jpg'),
           ),
         ),
       ),
