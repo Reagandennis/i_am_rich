@@ -4,11 +4,11 @@ void main() {
   runApp(
     MaterialApp(
       home: Scaffold(
-        backgroundColor: Colors.grey[800],
+        backgroundColor: Colors.blue[500],
         appBar: AppBar(
           centerTitle: true,
           title: const Text('I am coal'),
-          backgroundColor: Colors.blueGrey[900],
+          backgroundColor: Colors.blue[500],
         ),
         body: const Center(
           child: Image(
